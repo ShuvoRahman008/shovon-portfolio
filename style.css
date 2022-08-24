@@ -1,0 +1,29 @@
+body{
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+.name{
+   
+    color: orange;
+}
+.half{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
+.top{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+}
